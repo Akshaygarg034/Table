@@ -1,0 +1,28 @@
+.heading{
+font-size: 60px; 
+color: crimson;
+margin-left: 60px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#num{
+  height: 20px;
+  width: 200px;
+  margin-left: 10px;
+}
+.button{
+  height: 31px;
+  width: 80px;
+  border-radius: 4px;
+  text-shadow: red;
+  background-image: linear-gradient(red,rgb(252, 152, 152));
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+}
+div{
+  background-image: linear-gradient(rgb(255, 188, 65), white);
+  height: 70vh;
+}
+#para{
+  color: rgb(73, 77, 77);
+}
